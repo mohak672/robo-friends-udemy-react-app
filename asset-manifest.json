@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robo-friends-udemy-react-app/static/css/main.1f25c0fe.chunk.css",
+    "main.js": "/robo-friends-udemy-react-app/static/js/main.e1c43e97.chunk.js",
+    "main.js.map": "/robo-friends-udemy-react-app/static/js/main.e1c43e97.chunk.js.map",
+    "runtime-main.js": "/robo-friends-udemy-react-app/static/js/runtime-main.c32865df.js",
+    "runtime-main.js.map": "/robo-friends-udemy-react-app/static/js/runtime-main.c32865df.js.map",
+    "static/css/2.2dc38268.chunk.css": "/robo-friends-udemy-react-app/static/css/2.2dc38268.chunk.css",
+    "static/js/2.2f7a48c9.chunk.js": "/robo-friends-udemy-react-app/static/js/2.2f7a48c9.chunk.js",
+    "static/js/2.2f7a48c9.chunk.js.map": "/robo-friends-udemy-react-app/static/js/2.2f7a48c9.chunk.js.map",
+    "index.html": "/robo-friends-udemy-react-app/index.html",
+    "precache-manifest.f37708e724c2e9a9585b675c3639c0b7.js": "/robo-friends-udemy-react-app/precache-manifest.f37708e724c2e9a9585b675c3639c0b7.js",
+    "service-worker.js": "/robo-friends-udemy-react-app/service-worker.js",
+    "static/css/2.2dc38268.chunk.css.map": "/robo-friends-udemy-react-app/static/css/2.2dc38268.chunk.css.map",
+    "static/css/main.1f25c0fe.chunk.css.map": "/robo-friends-udemy-react-app/static/css/main.1f25c0fe.chunk.css.map",
+    "static/js/2.2f7a48c9.chunk.js.LICENSE.txt": "/robo-friends-udemy-react-app/static/js/2.2f7a48c9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robo-friends-udemy-react-app/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c32865df.js",
+    "static/css/2.2dc38268.chunk.css",
+    "static/js/2.2f7a48c9.chunk.js",
+    "static/css/main.1f25c0fe.chunk.css",
+    "static/js/main.e1c43e97.chunk.js"
+  ]
+}
